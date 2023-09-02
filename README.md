@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crkhun
-- 👀 I’m interested in clojure
-- 🌱 I’m currently learning fogponics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in mathematica
+- 🌱 I’m currently learning stock analysis
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me vrkhun2010@gmail.com
 
 <!---
